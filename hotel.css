@@ -1,0 +1,153 @@
+body{
+    background-color: #f1f1f1;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+}
+
+header img{
+    width: 100px;
+    height: auto;
+
+}
+
+header{
+    background-color:#0F292F;
+    position: fixed;
+    width: 100%;
+    left: 0;
+    right: 0;
+    top: 0;
+}
+
+.navi{
+    position: absolute;
+    top: 25px;
+    left: 80%;
+}
+
+.navi a{
+    color: white;
+    text-decoration: none;
+    margin: 0 20px;
+    
+}
+
+#titlee{
+    color: #494949;
+    margin-top: 100px;
+    text-align: center;
+    font-size: 30px;
+}
+
+main{
+    left: 50px;
+}
+
+div{
+    float: left; 
+    margin: 0 15px;
+}
+.main1{
+    background-color: white;
+    width: 300px;
+    height: 450px;
+    top: 25%;
+    padding: 20px;
+    border-bottom: 7px solid #0F292F;
+}
+
+span{
+    position: absolute;
+    font-weight: bolder;
+    top: 54%;
+    left: 9%;
+}
+
+.main2 span{
+    left: 34%;
+}
+
+.main3 span{
+    left: 57%;
+}
+
+.main4 span{
+    left: 82%;
+}
+
+.main2{
+    background-color: white;
+    width: 300px;
+    height: 450px;
+    top: 25%;
+    padding: 20px;
+    border-bottom: 7px solid #0F292F;
+}
+.main3{
+    background-color: white;
+    width: 300px;
+    height: 450px;
+    top: 25%;
+    padding: 20px;
+    border-bottom: 7px solid #0F292F;
+}
+
+.main4{
+    background-color: white;
+    width: 300px;
+    height: 450px;
+    top: 25%;
+    padding: 20px;
+    border-bottom: 7px solid #0F292F;
+}
+
+main img{
+    width: 230px;
+    height: 150px;
+    border-radius: 20px;
+    position: absolute;
+    top: 30%;
+    left: 5%;
+    border: 3px solid #0F292F;
+}
+
+.main2 img{
+    left: 29%;
+}
+
+.main3 img{
+    left: 53%;
+}
+
+.main4 img{
+    left: 77.5%;
+}
+
+ul{
+    color: #737373;
+    position: absolute;
+    top:58%;
+}
+
+button{
+    color: #ffffff;
+    background-color: #0F292F;
+    border-radius: 5px;
+    position: absolute;
+    width: 110px;
+    height: 40px;
+    top: 80%;
+    left: 8.5%;
+}
+
+.main2 button{
+    left: 33%;
+}
+
+.main3 button{
+    left: 57%;
+}
+
+.main4 button{
+    left: 81%;
+}
